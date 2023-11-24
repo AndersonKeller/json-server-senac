@@ -10,6 +10,38 @@
       "email": "senacrs@email.com",
       "password": "$2a$10$nv7qfBed3R5.ua.7t1NmY.pObD8GawRhboPRQh05jYXZ6KswVD9wW",
       "id": 2
+    },
+    {
+      "email": "sena23crs@email.com",
+      "password": "$2a$10$LLIG.B9NvacPMLg0YetGz.ZgrAXi48bpaE.qZ0bfVcduTdR6ueJZS",
+      "username": "senac23",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "name": "açai",
+      "preco": 20,
+      "custo": 10,
+      "id": 1
+    },
+    {
+      "name": "açai",
+      "preco": 200,
+      "custo": 10,
+      "id": 2
+    },
+    {
+      "name": "açai",
+      "preco": 20,
+      "custo": 10,
+      "id": 3
+    },
+    {
+      "name": "açai",
+      "preco": 2,
+      "custo": 10,
+      "id": 4
     }
   ]
 }
